@@ -65,7 +65,7 @@ We provide a simple Top-K task for testing in [`estimate.py`](estimate.py)
 represent = get_result(source_int, embed_mat, source_letter_to_int, path1)[0] #the vector representations of plays
 ```
 ```bash
-python estimate.py
+python3 estimate.py
 ```
 
 ## Citing play2vec
