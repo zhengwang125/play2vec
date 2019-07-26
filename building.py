@@ -2,7 +2,8 @@ import pickle
 import numpy as np
 
 def Jaccard(A,B):
-    return round(len(A&B)/len(A|B),2)
+    jtemp = len(A&B)
+    return round(jtemp/(len(A)+len(B)-jtemp),2)
 
 if __name__ == '__main__':
     path1=r'SoccerData/'
