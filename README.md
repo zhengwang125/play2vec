@@ -1,6 +1,6 @@
 # play2vec
 
-This is the Implementation of "Effective and Efficient Sports Play Retrieval with Deep Representation Learning" (KDD 2019).
+This is the implementation of "Effective and Efficient Sports Play Retrieval with Deep Representation Learning" (KDD 2019).
 
 ## Requirements
 
