@@ -72,11 +72,11 @@ python3 estimate.py
 
 Please cite our paper if you find this code is useful
 ```
-@inproceedings{kdd19wz,
-  author    = {Wang, Zheng and Long, Cheng and Cong, Gao and Ju, Ce},
-  title     = {Effective and Efficient Sports Play Retrieval with Deep Representation Learning},
-  booktitle = {Proceedings of the 25th ACM SIGKDD international conference on Knowledge discovery and data mining},
-  year      = {2019},
-  organization = {ACM}
+@inproceedings{wang2019effective,
+  title={Effective and efficient sports play retrieval with deep representation learning},
+  author={Wang, Zheng and Long, Cheng and Cong, Gao and Ju, Ce},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={499--509},
+  year={2019}
 }
 ```
